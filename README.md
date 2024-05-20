@@ -9,8 +9,6 @@ Welcome to the Car Price Prediction project! This repository contains code and r
 - [Usage]
 - [Models]
 - [Results]
-- [Contributing]
-- [License]
 
 ## Overview
 
