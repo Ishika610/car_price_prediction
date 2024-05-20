@@ -1,5 +1,3 @@
-# car_price_prediction
-Sure, here's a sample README file for a car price prediction project on GitHub:
 
 # Car Price Prediction
 Welcome to the Car Price Prediction project! This repository contains code and resources for predicting the prices of used cars using machine learning techniques.
